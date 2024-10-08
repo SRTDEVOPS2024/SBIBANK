@@ -1,3 +1,0 @@
-echo "this is the file related to the java content:"
-echo "iam sairaviteja"
-echo "iam developing the file related to the java content:"
