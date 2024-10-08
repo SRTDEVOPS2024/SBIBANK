@@ -1,0 +1,4 @@
+echo "iam sairaviteja"
+echo "please welcome to my script file"
+echo "this is very important script"
+echo "this is my script...."
